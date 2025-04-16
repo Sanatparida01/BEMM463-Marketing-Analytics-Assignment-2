@@ -1,0 +1,501 @@
+MemberID,UsagePattern,GymVisitsPerMonth,PlanChosen,PlanPrice,FeatureScore,PreferredPrice,PreferredClassTime,PreferredPerk,CampaignType,SignUpLikelihood,SatisfactionScore
+1,Frequent,22,Monthly,29.99,7,30,Flexible,PT Sessions,Referral Program,0.37,1.93
+2,Weekend,10,Family,499.99,4,25,Evening,PT Sessions,New Year Promo,0.72,3.48
+3,Frequent,23,Family,499.99,7,30,Flexible,Nutrition Plans,New Year Promo,0.73,3.46
+4,Weekend,8,Family,499.99,4,30,Evening,Spa Access,No Campaign,0.44,4.38
+5,Frequent,22,Annual,299.99,6,30,Morning,PT Sessions,New Year Promo,0.78,4.55
+6,Frequent,18,Monthly,29.99,3,35,Flexible,PT Sessions,New Year Promo,0.47,2.1
+7,Weekend,10,Annual,299.99,9,35,Flexible,Spa Access,New Year Promo,0.65,5.4
+8,Frequent,23,Monthly,29.99,6,30,Morning,Nutrition Plans,No Campaign,0.76,2.82
+9,Frequent,20,Monthly,29.99,7,35,Flexible,Spa Access,Referral Program,0.59,1.43
+10,Frequent,19,Monthly,29.99,6,25,Evening,Spa Access,Referral Program,0.69,2.19
+11,Frequent,23,Annual,299.99,6,25,Evening,PT Sessions,New Year Promo,0.5,2.95
+12,Seasonal,3,Annual,299.99,6,30,Evening,PT Sessions,Referral Program,0.56,2.7
+13,Frequent,18,Annual,299.99,7,25,Evening,Nutrition Plans,Referral Program,0.56,4.04
+14,Seasonal,4,Annual,299.99,9,30,Morning,PT Sessions,No Campaign,0.45,3.48
+15,Frequent,20,Monthly,29.99,8,30,Flexible,PT Sessions,No Campaign,0.56,4.27
+16,Weekend,8,Family,499.99,6,25,Evening,Spa Access,New Year Promo,0.29,3.88
+17,Weekend,9,Annual,299.99,4,35,Morning,PT Sessions,Referral Program,0.5,2.07
+18,Weekend,11,Annual,299.99,7,25,Flexible,Nutrition Plans,New Year Promo,0.54,3.74
+19,Frequent,17,Monthly,29.99,6,25,Flexible,Spa Access,Referral Program,0.55,1.15
+20,Frequent,20,Annual,299.99,9,30,Morning,Nutrition Plans,New Year Promo,0.55,3.68
+21,Frequent,16,Annual,299.99,8,30,Morning,Spa Access,New Year Promo,0.59,2.35
+22,Seasonal,1,Monthly,29.99,7,30,Evening,PT Sessions,New Year Promo,0.7,3.65
+23,Seasonal,1,Monthly,29.99,5,30,Flexible,Spa Access,Referral Program,0.77,3.28
+24,Seasonal,1,Annual,299.99,8,35,Flexible,Spa Access,New Year Promo,0.47,3.57
+25,Frequent,18,Annual,299.99,4,35,Morning,PT Sessions,Referral Program,0.36,1.44
+26,Weekend,8,Monthly,29.99,6,35,Flexible,PT Sessions,New Year Promo,0.39,4.88
+27,Seasonal,3,Family,499.99,9,30,Evening,Nutrition Plans,New Year Promo,0.5,2.43
+28,Frequent,24,Monthly,29.99,5,30,Flexible,Nutrition Plans,Referral Program,0.53,1.23
+29,Frequent,18,Annual,299.99,9,30,Morning,PT Sessions,New Year Promo,0.45,5.25
+30,Weekend,8,Family,499.99,5,35,Morning,PT Sessions,New Year Promo,0.34,1.48
+31,Weekend,11,Annual,299.99,7,30,Evening,PT Sessions,Referral Program,0.51,2.18
+32,Seasonal,2,Annual,299.99,5,25,Evening,Spa Access,New Year Promo,0.64,5.08
+33,Frequent,20,Monthly,29.99,4,25,Flexible,Spa Access,New Year Promo,0.72,3.63
+34,Weekend,10,Monthly,29.99,4,30,Flexible,Spa Access,New Year Promo,0.49,1.59
+35,Frequent,22,Family,499.99,3,25,Morning,PT Sessions,No Campaign,0.52,2.16
+36,Frequent,17,Annual,299.99,4,25,Evening,Nutrition Plans,Referral Program,0.41,3.97
+37,Frequent,19,Family,499.99,8,35,Evening,PT Sessions,Referral Program,0.59,4.27
+38,Seasonal,4,Monthly,29.99,5,30,Evening,Spa Access,Referral Program,0.43,3.65
+39,Weekend,8,Monthly,29.99,4,30,Flexible,Spa Access,New Year Promo,0.71,3.42
+40,Weekend,9,Monthly,29.99,7,35,Evening,PT Sessions,New Year Promo,0.24,3.51
+41,Frequent,20,Annual,299.99,9,25,Morning,PT Sessions,Referral Program,0.53,3.8
+42,Seasonal,4,Monthly,29.99,9,25,Morning,Spa Access,New Year Promo,0.66,4.03
+43,Frequent,19,Family,499.99,3,30,Flexible,Spa Access,New Year Promo,0.64,2.45
+44,Seasonal,1,Annual,299.99,9,25,Flexible,Spa Access,New Year Promo,1.0,5.43
+45,Frequent,23,Family,499.99,5,35,Evening,PT Sessions,New Year Promo,0.67,2.56
+46,Frequent,18,Monthly,29.99,3,35,Flexible,Spa Access,No Campaign,0.4,1.82
+47,Frequent,16,Family,499.99,5,30,Morning,Spa Access,New Year Promo,0.58,2.35
+48,Frequent,19,Annual,299.99,7,35,Evening,Nutrition Plans,Referral Program,0.24,2.7
+49,Weekend,10,Annual,299.99,3,35,Morning,PT Sessions,New Year Promo,0.58,1.0
+50,Weekend,8,Family,499.99,6,30,Evening,Nutrition Plans,No Campaign,0.43,5.27
+51,Frequent,19,Annual,299.99,8,35,Flexible,Nutrition Plans,New Year Promo,0.78,3.23
+52,Seasonal,2,Annual,299.99,8,35,Evening,Spa Access,New Year Promo,0.49,3.02
+53,Frequent,21,Monthly,29.99,5,35,Evening,PT Sessions,Referral Program,0.58,1.84
+54,Weekend,10,Monthly,29.99,9,25,Morning,Spa Access,Referral Program,0.47,4.26
+55,Seasonal,1,Family,499.99,6,30,Morning,PT Sessions,New Year Promo,0.95,3.5
+56,Weekend,8,Annual,299.99,3,30,Evening,Nutrition Plans,New Year Promo,0.54,1.02
+57,Frequent,17,Annual,299.99,6,30,Flexible,PT Sessions,New Year Promo,0.97,4.4
+58,Seasonal,1,Annual,299.99,6,25,Flexible,Spa Access,New Year Promo,0.76,4.11
+59,Weekend,10,Monthly,29.99,9,25,Morning,Spa Access,New Year Promo,0.7,4.03
+60,Frequent,23,Monthly,29.99,3,30,Flexible,Spa Access,New Year Promo,0.67,1.58
+61,Frequent,22,Annual,299.99,7,25,Morning,PT Sessions,New Year Promo,0.68,5.65
+62,Weekend,9,Annual,299.99,9,30,Flexible,Nutrition Plans,New Year Promo,0.21,3.46
+63,Weekend,10,Monthly,29.99,6,25,Evening,Nutrition Plans,Referral Program,0.54,1.61
+64,Weekend,8,Annual,299.99,6,35,Morning,PT Sessions,No Campaign,0.77,4.75
+65,Seasonal,1,Monthly,29.99,7,35,Morning,Spa Access,Referral Program,0.59,2.42
+66,Weekend,9,Annual,299.99,6,30,Evening,Nutrition Plans,New Year Promo,0.32,5.18
+67,Frequent,23,Monthly,29.99,6,25,Morning,Spa Access,New Year Promo,0.59,3.06
+68,Frequent,24,Annual,299.99,6,25,Flexible,PT Sessions,No Campaign,0.94,4.69
+69,Frequent,24,Monthly,29.99,8,35,Flexible,Spa Access,New Year Promo,0.85,2.02
+70,Weekend,8,Annual,299.99,9,35,Morning,Nutrition Plans,New Year Promo,0.59,2.6
+71,Frequent,24,Monthly,29.99,4,25,Flexible,Nutrition Plans,Referral Program,0.79,4.11
+72,Weekend,9,Monthly,29.99,9,25,Morning,Spa Access,Referral Program,0.53,4.08
+73,Weekend,10,Monthly,29.99,7,25,Evening,PT Sessions,Referral Program,0.26,4.66
+74,Seasonal,1,Annual,299.99,6,25,Morning,Spa Access,New Year Promo,0.42,3.13
+75,Frequent,16,Annual,299.99,9,25,Evening,PT Sessions,New Year Promo,0.91,4.67
+76,Seasonal,1,Monthly,29.99,8,25,Flexible,Spa Access,No Campaign,0.55,5.21
+77,Frequent,23,Annual,299.99,7,30,Evening,Nutrition Plans,New Year Promo,0.55,4.21
+78,Seasonal,4,Family,499.99,5,25,Flexible,PT Sessions,Referral Program,0.54,2.38
+79,Frequent,16,Annual,299.99,9,35,Morning,PT Sessions,Referral Program,0.98,3.57
+80,Frequent,23,Monthly,29.99,5,30,Flexible,PT Sessions,Referral Program,0.93,1.0
+81,Weekend,11,Annual,299.99,6,25,Morning,Nutrition Plans,New Year Promo,1.0,3.36
+82,Frequent,18,Monthly,29.99,8,35,Morning,Spa Access,New Year Promo,0.57,2.35
+83,Frequent,16,Monthly,29.99,8,30,Evening,Nutrition Plans,Referral Program,0.66,6.32
+84,Weekend,11,Family,499.99,9,35,Evening,PT Sessions,No Campaign,0.3,2.65
+85,Weekend,11,Monthly,29.99,7,25,Evening,Spa Access,No Campaign,0.9,3.22
+86,Weekend,11,Annual,299.99,7,25,Evening,Nutrition Plans,New Year Promo,0.37,1.32
+87,Weekend,8,Annual,299.99,8,25,Flexible,PT Sessions,New Year Promo,0.64,3.41
+88,Weekend,11,Annual,299.99,7,25,Flexible,PT Sessions,No Campaign,0.38,2.2
+89,Frequent,23,Annual,299.99,8,30,Flexible,Nutrition Plans,Referral Program,0.48,5.1
+90,Frequent,17,Monthly,29.99,9,30,Morning,Nutrition Plans,No Campaign,0.43,3.73
+91,Frequent,16,Monthly,29.99,4,35,Flexible,Nutrition Plans,New Year Promo,0.48,2.15
+92,Seasonal,1,Annual,299.99,8,25,Flexible,PT Sessions,Referral Program,0.49,3.25
+93,Weekend,11,Monthly,29.99,5,35,Flexible,Nutrition Plans,Referral Program,0.49,3.27
+94,Frequent,23,Monthly,29.99,7,30,Evening,PT Sessions,Referral Program,0.77,3.19
+95,Frequent,20,Monthly,29.99,8,25,Flexible,Nutrition Plans,New Year Promo,0.38,3.83
+96,Seasonal,3,Monthly,29.99,8,25,Morning,PT Sessions,New Year Promo,0.64,5.29
+97,Frequent,23,Monthly,29.99,9,30,Evening,PT Sessions,Referral Program,0.84,4.84
+98,Weekend,11,Monthly,29.99,7,30,Morning,Spa Access,New Year Promo,0.5,2.85
+99,Weekend,8,Annual,299.99,4,30,Flexible,Nutrition Plans,New Year Promo,0.46,1.17
+100,Weekend,8,Annual,299.99,9,30,Evening,Nutrition Plans,No Campaign,0.55,3.52
+101,Frequent,18,Family,499.99,4,30,Morning,PT Sessions,New Year Promo,0.84,3.44
+102,Seasonal,3,Monthly,29.99,9,25,Flexible,PT Sessions,No Campaign,0.64,2.45
+103,Seasonal,3,Monthly,29.99,7,30,Morning,PT Sessions,New Year Promo,0.49,3.91
+104,Weekend,9,Monthly,29.99,3,25,Morning,Spa Access,Referral Program,0.7,2.51
+105,Weekend,10,Annual,299.99,7,25,Morning,Spa Access,No Campaign,0.38,2.71
+106,Seasonal,2,Annual,299.99,7,30,Flexible,PT Sessions,New Year Promo,0.74,2.92
+107,Weekend,8,Monthly,29.99,4,30,Flexible,Nutrition Plans,New Year Promo,0.68,2.08
+108,Frequent,24,Family,499.99,4,25,Morning,Nutrition Plans,New Year Promo,0.54,2.88
+109,Weekend,8,Monthly,29.99,7,30,Evening,Spa Access,New Year Promo,0.43,2.83
+110,Weekend,11,Annual,299.99,7,30,Evening,Spa Access,Referral Program,0.42,2.44
+111,Frequent,16,Annual,299.99,7,30,Flexible,PT Sessions,No Campaign,0.71,3.99
+112,Weekend,11,Family,499.99,4,35,Flexible,Nutrition Plans,New Year Promo,0.85,3.41
+113,Seasonal,4,Annual,299.99,7,25,Flexible,PT Sessions,New Year Promo,0.47,1.79
+114,Seasonal,3,Family,499.99,7,35,Flexible,Spa Access,New Year Promo,0.69,4.05
+115,Frequent,22,Monthly,29.99,6,30,Flexible,Nutrition Plans,Referral Program,0.18,4.66
+116,Frequent,22,Family,499.99,3,35,Evening,Nutrition Plans,New Year Promo,0.48,2.33
+117,Seasonal,1,Monthly,29.99,5,30,Flexible,Spa Access,Referral Program,0.59,1.0
+118,Seasonal,4,Family,499.99,3,35,Morning,PT Sessions,Referral Program,0.42,1.92
+119,Frequent,18,Annual,299.99,6,30,Morning,PT Sessions,Referral Program,0.41,1.0
+120,Seasonal,3,Family,499.99,5,35,Evening,Nutrition Plans,New Year Promo,0.47,5.61
+121,Seasonal,3,Annual,299.99,9,35,Morning,Spa Access,Referral Program,0.66,6.26
+122,Weekend,11,Annual,299.99,7,35,Evening,Nutrition Plans,New Year Promo,0.56,2.55
+123,Weekend,8,Annual,299.99,6,25,Evening,Spa Access,New Year Promo,0.15,1.0
+124,Frequent,21,Annual,299.99,9,35,Morning,PT Sessions,No Campaign,0.18,2.18
+125,Frequent,19,Monthly,29.99,7,25,Flexible,Spa Access,Referral Program,0.48,2.88
+126,Frequent,22,Monthly,29.99,4,30,Morning,PT Sessions,New Year Promo,0.69,1.0
+127,Seasonal,1,Monthly,29.99,8,35,Morning,Spa Access,New Year Promo,0.05,2.43
+128,Frequent,22,Monthly,29.99,6,30,Evening,Nutrition Plans,New Year Promo,0.5,2.61
+129,Frequent,16,Family,499.99,4,30,Morning,PT Sessions,New Year Promo,0.49,2.31
+130,Frequent,16,Monthly,29.99,6,35,Evening,Nutrition Plans,New Year Promo,0.88,3.79
+131,Weekend,10,Family,499.99,6,25,Flexible,Nutrition Plans,New Year Promo,0.52,1.87
+132,Seasonal,2,Monthly,29.99,4,35,Flexible,PT Sessions,New Year Promo,0.68,1.71
+133,Frequent,19,Monthly,29.99,5,30,Flexible,PT Sessions,Referral Program,0.63,2.81
+134,Frequent,24,Annual,299.99,3,30,Morning,Nutrition Plans,Referral Program,0.17,1.0
+135,Weekend,11,Annual,299.99,7,35,Evening,Nutrition Plans,Referral Program,0.75,4.51
+136,Frequent,22,Annual,299.99,6,25,Flexible,Nutrition Plans,New Year Promo,0.64,3.12
+137,Frequent,21,Annual,299.99,7,25,Evening,Nutrition Plans,No Campaign,0.7,5.37
+138,Frequent,23,Annual,299.99,8,30,Evening,PT Sessions,No Campaign,1.0,5.22
+139,Frequent,24,Monthly,29.99,4,30,Flexible,PT Sessions,No Campaign,0.18,2.66
+140,Frequent,20,Family,499.99,7,25,Flexible,Nutrition Plans,No Campaign,0.94,4.11
+141,Frequent,16,Family,499.99,4,35,Evening,Spa Access,No Campaign,0.54,2.44
+142,Frequent,18,Annual,299.99,7,30,Flexible,Spa Access,Referral Program,0.66,5.15
+143,Seasonal,1,Monthly,29.99,3,25,Evening,PT Sessions,New Year Promo,0.59,1.7
+144,Frequent,21,Annual,299.99,3,30,Evening,Nutrition Plans,Referral Program,0.52,2.49
+145,Weekend,9,Monthly,29.99,3,35,Flexible,Nutrition Plans,Referral Program,0.49,1.61
+146,Weekend,10,Monthly,29.99,3,25,Morning,PT Sessions,Referral Program,0.67,1.97
+147,Frequent,19,Monthly,29.99,3,30,Flexible,Spa Access,Referral Program,0.3,1.0
+148,Weekend,9,Annual,299.99,3,35,Morning,Spa Access,New Year Promo,0.75,1.66
+149,Frequent,16,Family,499.99,4,30,Evening,Spa Access,New Year Promo,0.52,1.31
+150,Seasonal,4,Annual,299.99,6,35,Evening,PT Sessions,No Campaign,0.37,3.13
+151,Frequent,22,Annual,299.99,7,35,Morning,Spa Access,Referral Program,0.51,4.16
+152,Frequent,17,Annual,299.99,3,25,Evening,PT Sessions,Referral Program,0.85,2.51
+153,Frequent,18,Monthly,29.99,4,35,Morning,PT Sessions,New Year Promo,0.49,2.41
+154,Seasonal,1,Monthly,29.99,4,30,Morning,Nutrition Plans,New Year Promo,0.67,2.39
+155,Weekend,8,Family,499.99,4,35,Evening,Spa Access,No Campaign,0.45,1.29
+156,Weekend,10,Monthly,29.99,6,35,Morning,PT Sessions,Referral Program,0.75,4.16
+157,Frequent,23,Family,499.99,7,25,Flexible,Spa Access,Referral Program,0.74,4.23
+158,Weekend,8,Annual,299.99,6,35,Flexible,Spa Access,New Year Promo,0.97,1.85
+159,Frequent,16,Annual,299.99,5,35,Evening,Nutrition Plans,Referral Program,0.56,2.34
+160,Seasonal,2,Annual,299.99,9,30,Evening,Spa Access,New Year Promo,0.73,3.28
+161,Frequent,17,Annual,299.99,4,25,Morning,Nutrition Plans,Referral Program,0.62,2.05
+162,Frequent,21,Family,499.99,5,25,Morning,PT Sessions,New Year Promo,0.86,2.55
+163,Frequent,22,Family,499.99,8,25,Morning,Spa Access,New Year Promo,0.46,3.27
+164,Frequent,20,Annual,299.99,3,35,Morning,PT Sessions,Referral Program,0.75,2.07
+165,Weekend,8,Monthly,29.99,9,25,Flexible,Spa Access,No Campaign,0.56,3.47
+166,Frequent,16,Annual,299.99,3,35,Flexible,PT Sessions,New Year Promo,0.59,3.19
+167,Weekend,8,Family,499.99,6,35,Evening,Spa Access,No Campaign,0.62,3.6
+168,Frequent,17,Monthly,29.99,9,30,Morning,Spa Access,New Year Promo,0.65,3.3
+169,Weekend,10,Annual,299.99,7,30,Morning,Spa Access,New Year Promo,0.58,2.7
+170,Frequent,21,Annual,299.99,5,30,Evening,Spa Access,New Year Promo,0.64,3.27
+171,Frequent,22,Annual,299.99,7,30,Morning,Spa Access,New Year Promo,0.92,4.43
+172,Weekend,8,Monthly,29.99,6,30,Morning,Spa Access,Referral Program,0.8,2.8
+173,Frequent,22,Annual,299.99,3,35,Morning,Spa Access,New Year Promo,0.77,2.21
+174,Frequent,23,Family,499.99,9,35,Morning,Spa Access,New Year Promo,0.51,5.57
+175,Seasonal,4,Monthly,29.99,7,25,Morning,Spa Access,No Campaign,0.42,2.35
+176,Seasonal,2,Monthly,29.99,7,35,Evening,PT Sessions,New Year Promo,0.79,5.59
+177,Frequent,23,Family,499.99,3,35,Morning,Nutrition Plans,Referral Program,0.78,3.56
+178,Frequent,20,Monthly,29.99,9,30,Evening,Spa Access,New Year Promo,0.89,6.21
+179,Weekend,8,Family,499.99,5,35,Morning,Nutrition Plans,Referral Program,0.48,1.83
+180,Frequent,17,Annual,299.99,3,30,Flexible,Spa Access,New Year Promo,0.55,1.83
+181,Frequent,21,Monthly,29.99,7,25,Flexible,Spa Access,New Year Promo,0.27,2.19
+182,Frequent,21,Family,499.99,5,25,Flexible,PT Sessions,New Year Promo,0.52,3.67
+183,Weekend,8,Annual,299.99,5,35,Flexible,PT Sessions,New Year Promo,0.8,2.53
+184,Weekend,10,Annual,299.99,3,25,Evening,Nutrition Plans,New Year Promo,0.51,2.65
+185,Frequent,21,Monthly,29.99,7,35,Evening,PT Sessions,Referral Program,0.73,4.24
+186,Frequent,18,Annual,299.99,6,25,Morning,PT Sessions,No Campaign,0.56,2.87
+187,Frequent,19,Monthly,29.99,7,30,Flexible,Nutrition Plans,No Campaign,0.66,4.72
+188,Weekend,9,Monthly,29.99,4,30,Evening,PT Sessions,Referral Program,0.37,2.05
+189,Frequent,18,Family,499.99,9,30,Morning,Spa Access,New Year Promo,0.62,4.77
+190,Frequent,18,Monthly,29.99,8,30,Morning,Nutrition Plans,New Year Promo,0.0,1.91
+191,Weekend,11,Annual,299.99,6,35,Evening,Nutrition Plans,New Year Promo,0.56,2.2
+192,Frequent,19,Monthly,29.99,5,25,Flexible,Spa Access,New Year Promo,0.27,2.77
+193,Weekend,9,Annual,299.99,6,35,Morning,PT Sessions,Referral Program,0.84,3.91
+194,Frequent,19,Monthly,29.99,9,30,Flexible,Nutrition Plans,Referral Program,0.76,4.46
+195,Frequent,24,Family,499.99,5,35,Flexible,Nutrition Plans,New Year Promo,0.69,2.54
+196,Frequent,16,Annual,299.99,9,25,Flexible,Spa Access,New Year Promo,0.9,6.05
+197,Weekend,10,Monthly,29.99,5,35,Morning,Spa Access,No Campaign,0.41,1.2
+198,Seasonal,4,Monthly,29.99,6,25,Flexible,PT Sessions,Referral Program,0.95,2.53
+199,Seasonal,4,Monthly,29.99,5,35,Morning,Nutrition Plans,New Year Promo,0.79,4.02
+200,Frequent,23,Annual,299.99,5,25,Flexible,PT Sessions,No Campaign,0.55,3.46
+201,Weekend,9,Monthly,29.99,4,25,Morning,PT Sessions,No Campaign,0.83,3.21
+202,Frequent,24,Family,499.99,7,30,Flexible,Spa Access,New Year Promo,0.38,2.57
+203,Frequent,24,Annual,299.99,7,25,Evening,Nutrition Plans,New Year Promo,0.44,3.48
+204,Seasonal,4,Monthly,29.99,8,30,Flexible,Nutrition Plans,Referral Program,0.48,5.08
+205,Frequent,22,Annual,299.99,8,30,Flexible,Nutrition Plans,No Campaign,0.49,5.9
+206,Frequent,18,Annual,299.99,4,30,Morning,Spa Access,No Campaign,0.39,1.0
+207,Frequent,22,Monthly,29.99,8,35,Morning,Spa Access,New Year Promo,0.84,3.66
+208,Frequent,24,Monthly,29.99,9,35,Flexible,Spa Access,New Year Promo,0.55,3.32
+209,Frequent,19,Monthly,29.99,6,35,Evening,Spa Access,Referral Program,0.67,4.77
+210,Weekend,8,Annual,299.99,3,35,Evening,Spa Access,Referral Program,0.49,1.0
+211,Frequent,17,Annual,299.99,9,25,Morning,Nutrition Plans,New Year Promo,0.24,3.69
+212,Seasonal,2,Annual,299.99,3,25,Evening,PT Sessions,No Campaign,0.65,1.94
+213,Seasonal,3,Family,499.99,3,35,Flexible,Nutrition Plans,Referral Program,0.22,2.98
+214,Frequent,20,Family,499.99,4,25,Morning,PT Sessions,No Campaign,0.59,3.88
+215,Frequent,22,Annual,299.99,9,25,Flexible,Spa Access,No Campaign,0.33,3.73
+216,Frequent,24,Family,499.99,4,30,Morning,PT Sessions,Referral Program,1.0,1.62
+217,Weekend,10,Monthly,29.99,5,30,Morning,Nutrition Plans,New Year Promo,0.78,2.49
+218,Frequent,18,Monthly,29.99,3,30,Morning,Nutrition Plans,Referral Program,0.62,1.68
+219,Weekend,10,Monthly,29.99,6,30,Morning,PT Sessions,New Year Promo,0.85,2.17
+220,Frequent,18,Monthly,29.99,8,25,Evening,Spa Access,Referral Program,0.43,4.41
+221,Weekend,8,Annual,299.99,6,35,Flexible,Spa Access,New Year Promo,0.71,1.77
+222,Frequent,23,Family,499.99,8,25,Flexible,Nutrition Plans,Referral Program,0.64,5.65
+223,Frequent,21,Monthly,29.99,3,25,Flexible,PT Sessions,New Year Promo,0.65,4.16
+224,Seasonal,1,Monthly,29.99,3,25,Morning,Spa Access,New Year Promo,0.85,2.21
+225,Weekend,10,Annual,299.99,3,30,Evening,Spa Access,New Year Promo,0.75,2.73
+226,Frequent,23,Family,499.99,4,30,Flexible,Nutrition Plans,New Year Promo,0.66,2.45
+227,Seasonal,4,Monthly,29.99,9,30,Evening,Spa Access,Referral Program,0.27,4.14
+228,Frequent,16,Annual,299.99,8,35,Morning,PT Sessions,Referral Program,0.41,4.49
+229,Seasonal,3,Monthly,29.99,9,25,Flexible,Nutrition Plans,Referral Program,0.58,4.12
+230,Weekend,11,Monthly,29.99,4,35,Evening,Nutrition Plans,New Year Promo,0.62,2.91
+231,Frequent,21,Family,499.99,4,30,Morning,PT Sessions,New Year Promo,0.37,1.32
+232,Frequent,23,Family,499.99,7,35,Evening,Nutrition Plans,New Year Promo,1.0,4.54
+233,Frequent,19,Monthly,29.99,6,25,Flexible,Spa Access,New Year Promo,0.9,3.76
+234,Weekend,9,Family,499.99,6,25,Flexible,Spa Access,No Campaign,0.72,2.33
+235,Weekend,9,Annual,299.99,5,30,Morning,PT Sessions,New Year Promo,0.61,2.71
+236,Frequent,18,Family,499.99,4,30,Morning,Spa Access,New Year Promo,0.56,1.94
+237,Frequent,24,Annual,299.99,8,35,Morning,PT Sessions,New Year Promo,0.41,2.61
+238,Seasonal,1,Annual,299.99,7,30,Evening,PT Sessions,New Year Promo,0.62,2.19
+239,Seasonal,3,Annual,299.99,7,30,Evening,Spa Access,Referral Program,0.65,3.46
+240,Weekend,10,Annual,299.99,9,25,Evening,PT Sessions,Referral Program,0.35,2.62
+241,Frequent,21,Monthly,29.99,6,30,Morning,Spa Access,New Year Promo,0.67,2.67
+242,Frequent,18,Monthly,29.99,4,30,Flexible,Nutrition Plans,New Year Promo,0.57,3.42
+243,Frequent,24,Monthly,29.99,5,25,Flexible,Nutrition Plans,New Year Promo,0.22,2.57
+244,Seasonal,4,Annual,299.99,4,25,Evening,PT Sessions,New Year Promo,0.43,1.08
+245,Frequent,16,Monthly,29.99,9,35,Evening,Spa Access,New Year Promo,0.52,4.09
+246,Weekend,11,Annual,299.99,3,30,Flexible,Spa Access,No Campaign,0.98,2.99
+247,Frequent,16,Family,499.99,4,25,Flexible,Nutrition Plans,Referral Program,0.71,4.32
+248,Weekend,11,Monthly,29.99,9,35,Evening,Nutrition Plans,Referral Program,0.33,4.74
+249,Weekend,9,Annual,299.99,3,35,Evening,Spa Access,New Year Promo,0.7,1.0
+250,Seasonal,3,Annual,299.99,3,30,Flexible,PT Sessions,New Year Promo,0.29,2.34
+251,Frequent,23,Family,499.99,5,30,Morning,Nutrition Plans,Referral Program,0.82,4.41
+252,Frequent,22,Monthly,29.99,8,35,Evening,PT Sessions,Referral Program,0.51,3.98
+253,Frequent,18,Annual,299.99,6,25,Flexible,PT Sessions,Referral Program,0.58,2.62
+254,Seasonal,3,Family,499.99,4,35,Flexible,Nutrition Plans,New Year Promo,0.87,5.35
+255,Seasonal,2,Family,499.99,3,30,Flexible,PT Sessions,Referral Program,0.34,2.23
+256,Weekend,11,Annual,299.99,4,25,Flexible,PT Sessions,New Year Promo,0.32,3.82
+257,Weekend,9,Annual,299.99,8,25,Morning,Spa Access,No Campaign,0.48,4.71
+258,Weekend,11,Annual,299.99,6,35,Flexible,PT Sessions,Referral Program,0.81,3.88
+259,Frequent,21,Family,499.99,8,30,Evening,Spa Access,Referral Program,0.3,2.42
+260,Seasonal,2,Annual,299.99,6,35,Morning,Nutrition Plans,New Year Promo,0.03,1.84
+261,Frequent,21,Monthly,29.99,7,35,Flexible,Nutrition Plans,Referral Program,0.51,2.9
+262,Frequent,18,Family,499.99,6,35,Morning,Spa Access,New Year Promo,0.71,2.01
+263,Weekend,11,Annual,299.99,5,25,Evening,Nutrition Plans,New Year Promo,0.84,3.83
+264,Frequent,23,Annual,299.99,8,25,Flexible,PT Sessions,New Year Promo,0.51,4.99
+265,Frequent,17,Monthly,29.99,3,30,Evening,PT Sessions,Referral Program,0.52,1.64
+266,Weekend,9,Annual,299.99,7,30,Flexible,PT Sessions,New Year Promo,0.83,5.92
+267,Frequent,16,Monthly,29.99,5,35,Flexible,Nutrition Plans,New Year Promo,0.23,1.0
+268,Weekend,8,Annual,299.99,4,35,Flexible,PT Sessions,No Campaign,0.52,3.29
+269,Frequent,20,Monthly,29.99,8,35,Flexible,Nutrition Plans,New Year Promo,0.64,5.35
+270,Frequent,18,Annual,299.99,9,30,Flexible,PT Sessions,Referral Program,0.69,3.88
+271,Frequent,19,Family,499.99,9,25,Morning,Spa Access,New Year Promo,0.5,3.51
+272,Frequent,18,Monthly,29.99,3,25,Flexible,Nutrition Plans,New Year Promo,0.61,3.16
+273,Weekend,10,Family,499.99,6,35,Flexible,Nutrition Plans,Referral Program,0.1,2.51
+274,Frequent,16,Annual,299.99,3,35,Morning,PT Sessions,New Year Promo,0.47,1.0
+275,Weekend,10,Family,499.99,9,35,Morning,Nutrition Plans,New Year Promo,0.69,3.24
+276,Frequent,21,Annual,299.99,4,35,Morning,Nutrition Plans,Referral Program,0.4,1.99
+277,Weekend,10,Annual,299.99,7,30,Morning,Spa Access,Referral Program,0.61,1.95
+278,Seasonal,1,Annual,299.99,7,25,Morning,Spa Access,Referral Program,0.69,3.01
+279,Weekend,10,Family,499.99,8,35,Morning,PT Sessions,New Year Promo,0.53,2.12
+280,Frequent,23,Annual,299.99,7,30,Flexible,Spa Access,New Year Promo,0.63,2.99
+281,Frequent,16,Monthly,29.99,8,35,Flexible,PT Sessions,Referral Program,0.41,2.88
+282,Frequent,20,Annual,299.99,8,35,Evening,PT Sessions,Referral Program,0.56,3.87
+283,Weekend,10,Family,499.99,8,25,Flexible,PT Sessions,No Campaign,0.72,3.75
+284,Frequent,16,Annual,299.99,9,35,Flexible,Nutrition Plans,No Campaign,0.63,4.46
+285,Frequent,19,Annual,299.99,9,25,Morning,Spa Access,No Campaign,0.48,4.04
+286,Weekend,11,Annual,299.99,6,25,Morning,PT Sessions,New Year Promo,0.64,4.11
+287,Frequent,22,Family,499.99,5,25,Flexible,Spa Access,New Year Promo,0.74,3.85
+288,Weekend,11,Monthly,29.99,8,30,Evening,PT Sessions,Referral Program,0.19,3.55
+289,Frequent,18,Annual,299.99,8,30,Morning,Spa Access,New Year Promo,0.83,7.16
+290,Frequent,17,Monthly,29.99,5,25,Flexible,Spa Access,New Year Promo,0.53,2.91
+291,Weekend,8,Monthly,29.99,3,35,Flexible,PT Sessions,No Campaign,0.69,4.87
+292,Frequent,21,Monthly,29.99,8,25,Evening,Nutrition Plans,No Campaign,0.84,4.49
+293,Weekend,11,Monthly,29.99,6,35,Evening,Spa Access,New Year Promo,0.33,2.38
+294,Frequent,23,Annual,299.99,7,25,Morning,Nutrition Plans,New Year Promo,0.46,2.65
+295,Frequent,23,Monthly,29.99,7,35,Evening,Nutrition Plans,New Year Promo,0.54,4.69
+296,Seasonal,4,Annual,299.99,4,30,Flexible,PT Sessions,No Campaign,0.44,3.72
+297,Weekend,11,Monthly,29.99,4,35,Flexible,PT Sessions,No Campaign,0.95,3.7
+298,Weekend,9,Monthly,29.99,7,25,Evening,PT Sessions,New Year Promo,0.43,4.09
+299,Frequent,17,Monthly,29.99,7,30,Evening,Spa Access,New Year Promo,0.49,1.8
+300,Weekend,9,Monthly,29.99,9,35,Evening,PT Sessions,No Campaign,0.64,2.43
+301,Frequent,16,Annual,299.99,6,35,Evening,PT Sessions,New Year Promo,0.36,3.77
+302,Frequent,23,Annual,299.99,5,35,Morning,Spa Access,Referral Program,0.52,2.41
+303,Seasonal,4,Annual,299.99,4,35,Evening,Spa Access,No Campaign,0.66,3.27
+304,Frequent,24,Annual,299.99,9,35,Morning,PT Sessions,New Year Promo,0.53,3.04
+305,Seasonal,2,Monthly,29.99,9,30,Flexible,PT Sessions,Referral Program,0.58,5.52
+306,Frequent,22,Family,499.99,5,30,Evening,PT Sessions,New Year Promo,0.49,1.0
+307,Frequent,22,Annual,299.99,9,30,Morning,PT Sessions,New Year Promo,0.3,1.91
+308,Weekend,8,Annual,299.99,6,30,Evening,Nutrition Plans,No Campaign,0.66,4.56
+309,Seasonal,4,Monthly,29.99,7,25,Flexible,Nutrition Plans,New Year Promo,0.95,1.39
+310,Weekend,8,Monthly,29.99,8,30,Flexible,PT Sessions,No Campaign,0.6,3.98
+311,Seasonal,2,Monthly,29.99,5,35,Flexible,Nutrition Plans,Referral Program,0.65,2.69
+312,Weekend,8,Monthly,29.99,7,35,Evening,Spa Access,New Year Promo,0.74,2.84
+313,Weekend,8,Annual,299.99,7,30,Evening,Nutrition Plans,New Year Promo,0.35,2.6
+314,Seasonal,1,Annual,299.99,3,35,Morning,Nutrition Plans,New Year Promo,0.94,1.93
+315,Frequent,19,Annual,299.99,5,30,Flexible,PT Sessions,New Year Promo,0.64,4.32
+316,Frequent,16,Annual,299.99,9,35,Evening,Nutrition Plans,New Year Promo,0.93,6.36
+317,Frequent,23,Family,499.99,8,25,Flexible,Nutrition Plans,New Year Promo,0.45,2.61
+318,Seasonal,2,Annual,299.99,5,25,Flexible,Nutrition Plans,New Year Promo,0.96,3.7
+319,Seasonal,4,Family,499.99,9,30,Morning,Nutrition Plans,Referral Program,0.76,2.89
+320,Frequent,17,Monthly,29.99,7,30,Morning,Spa Access,Referral Program,0.71,4.59
+321,Weekend,9,Monthly,29.99,8,30,Morning,PT Sessions,Referral Program,0.65,4.75
+322,Seasonal,2,Monthly,29.99,9,35,Morning,PT Sessions,New Year Promo,0.55,3.5
+323,Frequent,21,Annual,299.99,6,30,Flexible,Spa Access,New Year Promo,0.84,3.5
+324,Weekend,8,Family,499.99,9,25,Morning,Nutrition Plans,Referral Program,0.63,3.87
+325,Seasonal,3,Monthly,29.99,3,35,Morning,Spa Access,New Year Promo,0.21,1.0
+326,Frequent,21,Family,499.99,7,30,Morning,Nutrition Plans,New Year Promo,0.38,4.41
+327,Weekend,10,Monthly,29.99,9,35,Morning,Spa Access,No Campaign,0.56,3.05
+328,Frequent,16,Family,499.99,4,35,Flexible,PT Sessions,Referral Program,0.66,1.76
+329,Seasonal,2,Monthly,29.99,4,30,Morning,PT Sessions,Referral Program,0.59,2.23
+330,Seasonal,4,Monthly,29.99,3,35,Flexible,PT Sessions,New Year Promo,0.84,3.58
+331,Seasonal,1,Annual,299.99,6,25,Evening,Nutrition Plans,Referral Program,0.21,1.63
+332,Frequent,20,Monthly,29.99,7,25,Flexible,Nutrition Plans,Referral Program,0.63,1.41
+333,Seasonal,2,Monthly,29.99,5,35,Flexible,Spa Access,Referral Program,0.24,1.09
+334,Seasonal,2,Monthly,29.99,3,30,Morning,Spa Access,Referral Program,0.75,2.82
+335,Frequent,20,Family,499.99,6,35,Evening,PT Sessions,No Campaign,0.58,5.15
+336,Seasonal,3,Annual,299.99,5,25,Evening,Nutrition Plans,Referral Program,0.68,1.6
+337,Frequent,22,Monthly,29.99,4,35,Evening,Spa Access,New Year Promo,0.43,1.0
+338,Weekend,9,Annual,299.99,4,35,Evening,Nutrition Plans,Referral Program,0.86,1.41
+339,Frequent,21,Annual,299.99,5,25,Flexible,Nutrition Plans,Referral Program,0.81,1.48
+340,Frequent,19,Monthly,29.99,3,35,Evening,PT Sessions,Referral Program,0.72,3.55
+341,Frequent,18,Annual,299.99,4,35,Flexible,PT Sessions,New Year Promo,0.57,3.83
+342,Weekend,8,Monthly,29.99,7,30,Flexible,Nutrition Plans,New Year Promo,0.72,3.72
+343,Frequent,23,Monthly,29.99,8,30,Flexible,Nutrition Plans,No Campaign,0.46,2.85
+344,Weekend,8,Annual,299.99,9,25,Evening,Nutrition Plans,Referral Program,0.77,6.03
+345,Frequent,17,Monthly,29.99,5,25,Morning,Nutrition Plans,No Campaign,0.93,3.53
+346,Frequent,18,Annual,299.99,5,25,Morning,PT Sessions,Referral Program,0.81,4.21
+347,Weekend,10,Annual,299.99,4,30,Evening,Spa Access,Referral Program,0.45,1.58
+348,Weekend,10,Monthly,29.99,3,25,Morning,PT Sessions,Referral Program,0.67,2.28
+349,Frequent,18,Annual,299.99,7,25,Morning,Spa Access,No Campaign,0.34,1.54
+350,Weekend,9,Monthly,29.99,3,25,Flexible,Nutrition Plans,Referral Program,0.71,2.95
+351,Seasonal,1,Family,499.99,6,30,Flexible,Spa Access,Referral Program,0.69,3.37
+352,Weekend,9,Annual,299.99,6,35,Evening,PT Sessions,New Year Promo,0.23,1.37
+353,Frequent,22,Family,499.99,8,25,Evening,PT Sessions,New Year Promo,0.37,2.26
+354,Frequent,24,Annual,299.99,4,35,Morning,Nutrition Plans,Referral Program,0.54,3.9
+355,Seasonal,4,Monthly,29.99,4,25,Flexible,PT Sessions,New Year Promo,0.54,4.25
+356,Frequent,16,Annual,299.99,4,35,Evening,Nutrition Plans,New Year Promo,0.36,1.71
+357,Seasonal,3,Family,499.99,8,30,Evening,PT Sessions,New Year Promo,0.68,3.83
+358,Weekend,8,Annual,299.99,6,30,Evening,PT Sessions,New Year Promo,0.65,3.5
+359,Seasonal,4,Family,499.99,3,25,Evening,Nutrition Plans,New Year Promo,0.56,2.17
+360,Weekend,9,Family,499.99,8,35,Evening,Spa Access,New Year Promo,0.45,1.63
+361,Seasonal,1,Monthly,29.99,8,30,Evening,PT Sessions,No Campaign,0.81,4.45
+362,Frequent,20,Monthly,29.99,3,25,Morning,Spa Access,Referral Program,0.93,1.0
+363,Weekend,10,Annual,299.99,4,25,Flexible,PT Sessions,New Year Promo,0.5,1.47
+364,Frequent,22,Annual,299.99,7,30,Flexible,PT Sessions,New Year Promo,0.48,3.57
+365,Frequent,20,Family,499.99,3,30,Evening,PT Sessions,Referral Program,0.7,2.9
+366,Weekend,10,Family,499.99,6,25,Flexible,PT Sessions,New Year Promo,0.53,2.05
+367,Seasonal,3,Monthly,29.99,5,35,Flexible,Spa Access,No Campaign,0.57,2.18
+368,Seasonal,1,Monthly,29.99,5,35,Flexible,Spa Access,Referral Program,0.75,2.41
+369,Weekend,10,Annual,299.99,9,35,Evening,PT Sessions,Referral Program,0.22,3.04
+370,Frequent,20,Monthly,29.99,9,25,Evening,PT Sessions,New Year Promo,0.86,4.39
+371,Frequent,21,Family,499.99,8,30,Flexible,Spa Access,Referral Program,0.61,4.29
+372,Weekend,8,Annual,299.99,5,25,Flexible,Nutrition Plans,New Year Promo,0.52,2.02
+373,Frequent,20,Annual,299.99,7,30,Evening,Nutrition Plans,No Campaign,0.58,3.63
+374,Frequent,16,Monthly,29.99,4,35,Morning,Spa Access,Referral Program,0.59,2.89
+375,Frequent,19,Annual,299.99,6,35,Flexible,PT Sessions,New Year Promo,0.25,2.5
+376,Frequent,20,Annual,299.99,9,30,Morning,PT Sessions,New Year Promo,0.9,4.24
+377,Frequent,20,Annual,299.99,7,30,Flexible,Nutrition Plans,New Year Promo,0.61,3.5
+378,Frequent,22,Monthly,29.99,6,25,Morning,Nutrition Plans,Referral Program,0.69,3.93
+379,Frequent,19,Annual,299.99,6,35,Morning,Spa Access,New Year Promo,0.79,4.22
+380,Frequent,16,Family,499.99,4,25,Morning,Nutrition Plans,Referral Program,0.4,3.82
+381,Seasonal,3,Monthly,29.99,8,25,Evening,Spa Access,New Year Promo,0.69,2.79
+382,Frequent,22,Monthly,29.99,5,25,Morning,Nutrition Plans,Referral Program,0.55,2.16
+383,Frequent,21,Monthly,29.99,4,35,Morning,Nutrition Plans,No Campaign,0.77,1.13
+384,Weekend,9,Annual,299.99,7,25,Morning,Nutrition Plans,Referral Program,0.17,3.37
+385,Frequent,19,Annual,299.99,8,25,Flexible,PT Sessions,Referral Program,0.58,3.23
+386,Seasonal,4,Annual,299.99,7,25,Morning,PT Sessions,New Year Promo,0.48,3.27
+387,Weekend,8,Monthly,29.99,8,25,Flexible,PT Sessions,New Year Promo,0.69,3.18
+388,Frequent,18,Monthly,29.99,9,25,Morning,Nutrition Plans,Referral Program,0.69,3.75
+389,Frequent,16,Annual,299.99,7,25,Morning,Spa Access,New Year Promo,0.46,4.24
+390,Seasonal,4,Annual,299.99,4,35,Evening,Spa Access,New Year Promo,0.46,2.81
+391,Seasonal,4,Family,499.99,8,25,Flexible,Spa Access,New Year Promo,0.58,3.45
+392,Frequent,19,Monthly,29.99,8,30,Morning,Spa Access,New Year Promo,0.42,4.01
+393,Weekend,8,Annual,299.99,6,25,Flexible,PT Sessions,New Year Promo,0.77,4.13
+394,Frequent,22,Annual,299.99,6,25,Flexible,PT Sessions,No Campaign,0.53,2.47
+395,Seasonal,2,Annual,299.99,3,35,Evening,Nutrition Plans,New Year Promo,0.02,1.0
+396,Frequent,16,Annual,299.99,7,35,Evening,Nutrition Plans,Referral Program,0.53,2.26
+397,Seasonal,3,Annual,299.99,6,30,Evening,Spa Access,New Year Promo,0.39,1.24
+398,Weekend,11,Family,499.99,3,30,Evening,PT Sessions,Referral Program,0.27,2.6
+399,Weekend,9,Monthly,29.99,9,35,Evening,Spa Access,New Year Promo,0.35,4.74
+400,Weekend,10,Monthly,29.99,9,35,Evening,Nutrition Plans,No Campaign,0.62,5.53
+401,Frequent,16,Annual,299.99,6,25,Evening,Nutrition Plans,No Campaign,0.87,1.52
+402,Frequent,16,Annual,299.99,7,35,Evening,Spa Access,New Year Promo,0.66,4.49
+403,Frequent,18,Monthly,29.99,8,30,Morning,Nutrition Plans,No Campaign,0.48,5.57
+404,Frequent,20,Monthly,29.99,5,25,Flexible,Spa Access,No Campaign,0.69,3.99
+405,Weekend,11,Monthly,29.99,7,30,Evening,PT Sessions,No Campaign,0.51,1.0
+406,Frequent,16,Family,499.99,4,25,Evening,Spa Access,No Campaign,0.46,3.89
+407,Frequent,16,Monthly,29.99,9,35,Flexible,PT Sessions,New Year Promo,0.37,3.48
+408,Seasonal,1,Monthly,29.99,6,30,Morning,PT Sessions,Referral Program,0.25,2.07
+409,Seasonal,3,Monthly,29.99,6,25,Flexible,Nutrition Plans,New Year Promo,0.52,3.29
+410,Seasonal,4,Monthly,29.99,8,25,Flexible,Nutrition Plans,New Year Promo,0.63,2.61
+411,Seasonal,1,Monthly,29.99,4,35,Evening,Nutrition Plans,No Campaign,0.58,2.36
+412,Frequent,18,Annual,299.99,8,35,Flexible,Spa Access,New Year Promo,0.52,5.06
+413,Frequent,22,Monthly,29.99,4,35,Flexible,Spa Access,Referral Program,0.41,2.64
+414,Weekend,10,Family,499.99,5,30,Evening,Nutrition Plans,No Campaign,0.72,3.0
+415,Weekend,9,Monthly,29.99,9,25,Evening,Spa Access,No Campaign,0.34,3.47
+416,Frequent,17,Annual,299.99,6,35,Evening,Nutrition Plans,No Campaign,0.76,2.14
+417,Seasonal,1,Family,499.99,6,30,Evening,Spa Access,New Year Promo,0.4,2.45
+418,Frequent,24,Annual,299.99,5,30,Flexible,PT Sessions,New Year Promo,0.45,1.0
+419,Frequent,22,Annual,299.99,3,30,Flexible,PT Sessions,New Year Promo,0.31,2.54
+420,Weekend,9,Monthly,29.99,9,35,Morning,Nutrition Plans,New Year Promo,0.5,1.51
+421,Weekend,11,Monthly,29.99,8,35,Morning,Spa Access,New Year Promo,0.8,4.85
+422,Weekend,9,Annual,299.99,5,25,Flexible,Spa Access,New Year Promo,0.7,3.88
+423,Frequent,23,Family,499.99,8,25,Morning,PT Sessions,Referral Program,0.8,5.32
+424,Seasonal,3,Annual,299.99,7,35,Flexible,PT Sessions,Referral Program,0.7,3.59
+425,Frequent,24,Annual,299.99,6,30,Morning,Nutrition Plans,New Year Promo,0.38,3.48
+426,Frequent,20,Annual,299.99,8,30,Evening,PT Sessions,Referral Program,0.53,3.3
+427,Seasonal,4,Annual,299.99,4,30,Morning,Nutrition Plans,New Year Promo,0.44,1.0
+428,Seasonal,1,Monthly,29.99,8,25,Evening,PT Sessions,New Year Promo,0.87,5.67
+429,Seasonal,1,Annual,299.99,7,30,Evening,PT Sessions,Referral Program,0.36,2.72
+430,Seasonal,2,Family,499.99,9,25,Evening,Spa Access,Referral Program,0.78,2.85
+431,Weekend,8,Monthly,29.99,6,25,Evening,PT Sessions,Referral Program,0.78,2.89
+432,Weekend,9,Annual,299.99,5,30,Morning,PT Sessions,New Year Promo,0.97,3.01
+433,Frequent,16,Monthly,29.99,7,30,Flexible,Nutrition Plans,No Campaign,0.52,3.6
+434,Frequent,18,Annual,299.99,6,35,Evening,PT Sessions,Referral Program,0.74,5.63
+435,Frequent,19,Monthly,29.99,8,35,Morning,Nutrition Plans,Referral Program,1.0,4.92
+436,Frequent,17,Annual,299.99,9,30,Evening,PT Sessions,Referral Program,0.48,3.87
+437,Weekend,11,Annual,299.99,3,25,Morning,PT Sessions,No Campaign,0.29,3.94
+438,Frequent,22,Monthly,29.99,9,25,Morning,Nutrition Plans,Referral Program,0.22,4.12
+439,Frequent,23,Annual,299.99,3,25,Morning,Spa Access,Referral Program,0.74,2.63
+440,Frequent,22,Annual,299.99,4,25,Flexible,Nutrition Plans,No Campaign,0.22,1.16
+441,Weekend,9,Family,499.99,9,25,Morning,Nutrition Plans,Referral Program,0.53,4.08
+442,Frequent,16,Monthly,29.99,6,35,Morning,Nutrition Plans,New Year Promo,0.69,3.11
+443,Seasonal,1,Monthly,29.99,3,30,Flexible,Spa Access,Referral Program,0.64,2.27
+444,Frequent,22,Monthly,29.99,5,35,Flexible,PT Sessions,New Year Promo,0.69,4.19
+445,Frequent,24,Family,499.99,6,25,Morning,Nutrition Plans,New Year Promo,0.64,2.54
+446,Weekend,10,Family,499.99,5,25,Flexible,Nutrition Plans,Referral Program,0.86,3.73
+447,Seasonal,3,Annual,299.99,9,25,Evening,Spa Access,No Campaign,0.41,4.47
+448,Frequent,16,Family,499.99,5,25,Evening,Nutrition Plans,No Campaign,0.46,1.76
+449,Weekend,10,Annual,299.99,3,30,Flexible,PT Sessions,New Year Promo,0.45,1.0
+450,Weekend,10,Annual,299.99,6,25,Flexible,Spa Access,Referral Program,0.77,3.19
+451,Frequent,24,Monthly,29.99,8,30,Morning,PT Sessions,New Year Promo,0.78,3.5
+452,Seasonal,1,Annual,299.99,7,25,Flexible,PT Sessions,No Campaign,0.69,4.63
+453,Weekend,8,Monthly,29.99,3,30,Morning,Spa Access,No Campaign,0.84,1.58
+454,Weekend,11,Family,499.99,3,35,Evening,Nutrition Plans,Referral Program,0.36,1.69
+455,Seasonal,1,Annual,299.99,8,25,Flexible,PT Sessions,No Campaign,0.93,6.81
+456,Seasonal,2,Annual,299.99,6,30,Morning,PT Sessions,Referral Program,0.9,4.01
+457,Weekend,9,Monthly,29.99,6,35,Morning,PT Sessions,Referral Program,0.75,3.88
+458,Seasonal,4,Monthly,29.99,9,25,Evening,PT Sessions,New Year Promo,0.96,5.78
+459,Weekend,11,Monthly,29.99,5,25,Flexible,Spa Access,New Year Promo,0.27,1.58
+460,Weekend,11,Monthly,29.99,9,25,Evening,Spa Access,Referral Program,0.5,2.62
+461,Weekend,10,Monthly,29.99,8,30,Morning,PT Sessions,Referral Program,0.45,3.48
+462,Weekend,11,Family,499.99,9,30,Morning,Nutrition Plans,New Year Promo,0.74,4.45
+463,Frequent,20,Annual,299.99,8,35,Flexible,PT Sessions,No Campaign,0.39,1.56
+464,Seasonal,2,Monthly,29.99,6,30,Morning,Nutrition Plans,New Year Promo,0.75,3.68
+465,Seasonal,2,Monthly,29.99,5,30,Flexible,PT Sessions,Referral Program,0.87,4.31
+466,Frequent,19,Annual,299.99,9,25,Evening,Nutrition Plans,Referral Program,0.74,3.27
+467,Seasonal,2,Annual,299.99,3,25,Flexible,PT Sessions,Referral Program,0.66,2.66
+468,Frequent,19,Annual,299.99,4,25,Flexible,Nutrition Plans,Referral Program,0.4,2.89
+469,Frequent,20,Family,499.99,7,25,Morning,PT Sessions,New Year Promo,0.43,3.55
+470,Weekend,10,Annual,299.99,3,25,Morning,PT Sessions,New Year Promo,0.85,3.28
+471,Frequent,24,Family,499.99,6,25,Flexible,Nutrition Plans,Referral Program,0.76,3.08
+472,Seasonal,1,Family,499.99,7,25,Morning,Spa Access,Referral Program,0.59,2.15
+473,Seasonal,2,Monthly,29.99,4,35,Morning,Nutrition Plans,New Year Promo,0.52,1.79
+474,Weekend,10,Family,499.99,4,35,Morning,Spa Access,Referral Program,0.19,1.0
+475,Frequent,20,Monthly,29.99,5,35,Flexible,PT Sessions,New Year Promo,0.39,2.2
+476,Frequent,18,Family,499.99,7,35,Morning,Nutrition Plans,Referral Program,0.98,5.15
+477,Weekend,9,Monthly,29.99,5,25,Flexible,Nutrition Plans,No Campaign,0.34,1.0
+478,Seasonal,2,Family,499.99,3,35,Morning,Nutrition Plans,New Year Promo,0.64,2.32
+479,Weekend,8,Family,499.99,8,25,Evening,Spa Access,New Year Promo,0.8,2.94
+480,Frequent,16,Family,499.99,8,35,Morning,Spa Access,Referral Program,0.35,2.36
+481,Weekend,8,Annual,299.99,8,30,Morning,PT Sessions,Referral Program,0.64,4.24
+482,Weekend,9,Monthly,29.99,7,35,Flexible,Spa Access,Referral Program,0.79,2.49
+483,Weekend,9,Monthly,29.99,8,35,Flexible,Spa Access,No Campaign,0.6,4.33
+484,Frequent,24,Annual,299.99,3,25,Morning,PT Sessions,No Campaign,1.0,1.55
+485,Weekend,11,Monthly,29.99,5,35,Evening,Nutrition Plans,No Campaign,0.27,2.71
+486,Weekend,10,Annual,299.99,7,30,Morning,Nutrition Plans,Referral Program,0.81,2.17
+487,Seasonal,1,Monthly,29.99,5,25,Morning,PT Sessions,New Year Promo,0.57,2.02
+488,Frequent,20,Family,499.99,7,25,Evening,Nutrition Plans,New Year Promo,0.75,5.5
+489,Weekend,11,Annual,299.99,5,35,Flexible,Spa Access,New Year Promo,0.69,4.59
+490,Seasonal,2,Family,499.99,4,25,Morning,PT Sessions,Referral Program,0.45,1.69
+491,Frequent,23,Monthly,29.99,5,25,Flexible,PT Sessions,New Year Promo,0.65,3.19
+492,Seasonal,3,Family,499.99,8,25,Flexible,PT Sessions,No Campaign,0.23,4.06
+493,Weekend,8,Family,499.99,4,25,Evening,Nutrition Plans,Referral Program,0.72,3.32
+494,Frequent,19,Annual,299.99,5,25,Evening,PT Sessions,Referral Program,0.66,2.55
+495,Frequent,16,Annual,299.99,7,25,Flexible,PT Sessions,New Year Promo,0.73,2.81
+496,Weekend,11,Annual,299.99,7,30,Morning,PT Sessions,New Year Promo,0.81,4.59
+497,Frequent,24,Monthly,29.99,7,35,Flexible,Nutrition Plans,New Year Promo,0.67,4.57
+498,Weekend,8,Annual,299.99,6,30,Morning,Spa Access,New Year Promo,0.63,4.78
+499,Frequent,19,Monthly,29.99,3,25,Morning,PT Sessions,New Year Promo,0.42,1.0
+500,Weekend,10,Monthly,29.99,7,25,Evening,Spa Access,Referral Program,0.46,1.77
